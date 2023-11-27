@@ -1,0 +1,38 @@
+[
+    {
+        "name": "foo",
+        "type": "closure",
+        "action": "{}",
+        "environment": null,
+        "start_at": "2023-11-26 15:29:18",
+        "end_at": "2023-11-26 15:29:18",
+        "duration": "00:00:00",
+        "output": null,
+        "error": "{}",
+        "test_time": null
+    },
+    {
+        "name": "foo",
+        "type": "closure",
+        "action": "{}",
+        "environment": null,
+        "start_at": "2023-11-26 15:29:09",
+        "end_at": "2023-11-26 15:29:09",
+        "duration": "00:00:00",
+        "output": null,
+        "error": "{}",
+        "test_time": null
+    },
+    {
+        "name": "foo",
+        "type": "closure",
+        "action": "{}",
+        "environment": null,
+        "start_at": "2023-11-26 15:29:03",
+        "end_at": "2023-11-26 15:29:04",
+        "duration": "00:00:00",
+        "output": null,
+        "error": "{}",
+        "test_time": null
+    }
+]
